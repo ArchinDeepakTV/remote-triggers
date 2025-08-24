@@ -1,0 +1,9 @@
+# folders
+.venv/
+
+# variable files
+.env
+config.json
+
+# testing files
+testing.py
